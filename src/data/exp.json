@@ -1,0 +1,30 @@
+[
+  {
+    "label": "Sun",
+    "value": 128 
+  },
+  {
+    "label": "Mon",
+    "value": 187 
+  },
+  {
+    "label": "Tue",
+    "value": 165 
+  },
+  {
+    "label": "Wed",
+    "value": 132
+  },
+  {
+    "label": "Thu",
+    "value": 198 
+  },
+  {
+    "label": "Fri",
+    "value": 176 
+  },
+  {
+    "label": "Sat",
+    "value": 143 
+  }
+]
